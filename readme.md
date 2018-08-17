@@ -22,6 +22,7 @@ The file contains a json object which houses the information of the members . Yo
 ```
 {
 	   "Ademola Abisayo Paul":{
+	   	  "name": "Ademola Abisayo Paul",
 	      "twitter":"sayo_paul",
 	      "github":"sayopaul"
 	   }
@@ -33,10 +34,12 @@ To add your name , use the following template and fill in your information appro
 ```
 {
 	   "Ademola Abisayo Paul":{
+	   	  "name": "Ademola Abisayo Paul",
 	      "twitter":"sayo_paul",
 	      "github":"sayopaul"
 	   } //notice that there is no comma here 
 	   "Your Name Here":{
+	   	"name":"Your full name here",
 		"twitter":"your twitter handle/username here",
 		"github":"your github username here"
 		}
@@ -51,6 +54,7 @@ and this on the other hand is correct
 	      "github":"sayopaul"
 	   }, 
 	   "Your Name Here":{
+	   	"name":"Your full name here",
 		"twitter":"your twitter handle/username here",
 		"github":"your github username here"
 		}
