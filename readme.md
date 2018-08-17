@@ -64,4 +64,4 @@ and this on the other hand is correct
  
  All the very best for you oo
  
- If you don't understand anything here , ask on the group or search Google ( it's how we all learn new stuff )
+ If you don't understand anything here , ask on the group or search Google ( it's how we all learn new stuff ) .
