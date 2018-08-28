@@ -1,6 +1,6 @@
 # DSC FUNAAB website members list
 
-Members list for the dsc funaab website
+Members list for the dsc funaab website https://dscfunaab.club/members
 
 ## Getting Started
 
