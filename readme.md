@@ -53,10 +53,10 @@ and this on the other hand is correct
 	      "twitter":"sayo_paul",
 	      "github":"sayopaul"
 	   }, 
-	   "Your Name Here":{
-	   	"name":"Your full name here",
-		"twitter":"your twitter handle/username here",
-		"github":"your github username here"
+	   "Oyewale Kehinde Oluwaseun":{
+	   	"name":"Oyewale Kehinde Oluwaseun",
+		"twitter":"oyewale_kehinde",
+		"github":"oyewalekehinde"
 		}
 }
 ```
