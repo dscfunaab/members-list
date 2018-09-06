@@ -52,12 +52,13 @@ and this on the other hand is correct
 	   "Ademola Abisayo Paul":{
 	      "twitter":"sayo_paul",
 	      "github":"sayopaul"
-	   }, 
-	   "Oyewale Kehinde Oluwaseun":{
-	   	"name":"Oyewale Kehinde Oluwaseun",
-		"twitter":"oyewale_kehinde",
-		"github":"oyewalekehinde"
+	   },
+	   "Your Name Here":{
+	   	"name":"Your full name here",
+		"twitter":"your twitter handle/username here",
+		"github":"your github username here"
 		}
+	  
 }
 ```
 
